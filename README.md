@@ -31,4 +31,4 @@
 
 ### 📫 Contacto Institucional
 
-![Email](https://img.shields.io/badge/EMAIL_INSTITUCIONAL-CDFLORESC126%40FICCT.UAGRM.EDU.BO-181717?style=for-the-badge&logo=gmail&logoColor=white)
+📧 **Correo Institucional:** [cdfloresc126@ficct.uagrm.edu.bo](mailto:cdfloresc126@ficct.uagrm.edu.bo)
