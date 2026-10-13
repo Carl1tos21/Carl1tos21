@@ -16,19 +16,28 @@
 
 ### 🛠️ Lenguajes y Herramientas
 
-**Lenguajes:**  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Herramientas y Entornos:**  
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Lenguajes:</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Herramientas y Entornos:</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Linux Mint" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" style="background-color:white; border-radius:50%; padding:2px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📫 Contacto Institucional
 
-📧 **Correo Institucional:** [cdfloresc126@ficct.uagrm.edu.bo](mailto:cdfloresc126@ficct.uagrm.edu.bo)
+<a href="mailto:cdfloresc126@ficct.uagrm.edu.bo">
+  <img src="https://img.shields.io/badge/EMAIL_INSTITUCIONAL-CDFLORESC126@FICCT.UAGRM.EDU.BO-blue?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Institucional"/>
+</a>
